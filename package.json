@@ -1,0 +1,18 @@
+{
+  "name": "cli_com_nodejs",
+  "version": "1.0.0",
+  "description": "Exemplo de CLI feito em Node.js (https://github.com/hmschreiner/node-cli)",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/serach-files"
+  },
+  "files": [
+    "./bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmjardim05/cli_com_nodejs.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
