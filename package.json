@@ -4,7 +4,7 @@
   "description": "Exemplo de CLI feito em Node.js (https://github.com/hmschreiner/node-cli)",
   "preferGlobal": true,
   "bin": {
-    "search-files": "./bin/search-files"
+    "search-files": "bin/search-files-cli"
   },
   "files": [
     "./bin"
